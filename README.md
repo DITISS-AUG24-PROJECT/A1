@@ -1,8 +1,13 @@
-# A1
+# A1 - Documentation repo
 -- 
-Deploying Docker Apps & ELK Monitoring
+CICD - DevSecOps - Deploying Docker Apps & ELK Monitoring
 
-day 1 - 27-01-2025
-	Team-a : Dhanashri & Jaspreet 	-	Docker & Jenkins
-	Team-b : Divyansh		-	ELK Server
-	Team-c : Samrajya & Akshat	-	SonarQube, OWASP ZAP & Trivy
+Team members -
+- Samrajya
+- Dhanashree
+- Akshat
+- Jaspreet
+- Divyansh
+
+Project tools - 
+Docker, Jenkins, ELK Server, SonarQube, OWASP ZAP & Trivy
